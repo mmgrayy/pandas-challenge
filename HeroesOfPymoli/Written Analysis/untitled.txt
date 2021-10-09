@@ -1,0 +1,4 @@
+Heroes Of Pymoli Analysis 
+- The first trend we can take away from this analysis is that males are the most likely to take part in the gamining scene, making uo 84% of all active players.
+- A second conclusion we can take from the data is the heavy presence of 20-24 year olds, making up almost 47%. 
+- Lastly, a valuable piece of information that can taken away from this analysis is Oathbreaker, Fiery Glass Crusader and Nirvana are the most profitable/populare items.
